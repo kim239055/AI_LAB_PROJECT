@@ -413,6 +413,3 @@ with tabs[4]:
     st.dataframe(fb_df)
 
 st.caption("© 2025 AI_LAB_PROJECT — Course Recommendation System")
-
-
-print("Application started successfully.s")
